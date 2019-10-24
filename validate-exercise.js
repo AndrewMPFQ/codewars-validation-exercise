@@ -9,3 +9,4 @@ function validatePIN(pin) {
 }
 
 validatePIN("234568");
+validatePIN("4321");
